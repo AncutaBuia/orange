@@ -1,6 +1,6 @@
 # This is a workflow to help you run all JMeter scripts with Actions
 
-name: jmeter
+name: peviitor.ro
 
 # Controls when the workflow will run
 on:
